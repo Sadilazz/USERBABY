@@ -1,4 +1,4 @@
-<h1 align="center"><b>тнє нєℓℓвσт</b></h1>
+<h1 align="center"><b>﻿ＨＩＲＵＷＡＺＺ</b></h1>
 
 <p align="center"><img src="https://te.legra.ph/file/59769df75882d07a609ac.jpg" alt="The HellBot"></p>
 
