@@ -167,7 +167,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </br>
 
 <h2 align="center">
-    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Anand</a>
+    Made with ❤️ by <a href="https://github.com/HellBoy-OP">Hirushan</a>
 </h2>
 
 ---
